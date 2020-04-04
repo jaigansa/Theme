@@ -45,7 +45,7 @@
           <ThemeWidgetColors
             outline="#373737"
             inner="#585858ff"
-            inner_sel="#ffd700ff"
+            inner_sel="#5680c2ff"
             item="#ffffffff"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -60,7 +60,7 @@
           <ThemeWidgetColors
             outline="#373737"
             inner="#313131ff"
-            inner_sel="#ffd700ff"
+            inner_sel="#5680c2ff"
             item="#ffffff8f"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -285,8 +285,8 @@
           <ThemeWidgetColors
             outline="#585858"
             inner="#2c2c2cff"
-            inner_sel="#ffd700ff"
-            item="#ffd700ff"
+            inner_sel="#5680c2ff"
+            item="#5680c2ff"
             text="#e6e6e6"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -530,7 +530,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#ffd700"
+        selected_file="#4f76b3"
         >
         <space>
           <ThemeSpaceGeneric
